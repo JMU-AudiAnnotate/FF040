@@ -23,6 +23,24 @@
         "id": "https://JMU-AudiAnnotate.github.io/FF040/velma-pollard-interview-9-23-2004-ff140-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2228,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FF040/annotations/velma-pollard-interview-9-23-2004-ff140--canvas-1-speaker.json",
+            "label": {
+              "none": ["Speaker"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FF040/annotations/velma-pollard-interview-9-23-2004-ff140--canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FF040/velma-pollard-interview-9-23-2004-ff140-/canvas-1/paintings",
