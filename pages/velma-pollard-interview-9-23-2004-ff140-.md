@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Velma Pollard Interview, 9/23/2004 (FF140)
 manifest_name: velma-pollard-interview-9-23-2004-ff140-
 permalink: velma-pollard-interview-9-23-2004-ff140-
