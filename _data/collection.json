@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Velma Pollard Interview, 9/23/2004 (FF140)" ] },
+    "summary": { "en": [ "Daryl Cumber Dance interviews Velma Pollard, camera stays on Pollard." ] },
+    "items": [
+    ]
+}
